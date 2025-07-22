@@ -1,6 +1,6 @@
 import React from 'react'
 import CourseCard from '../components/CourseCard'
-// import allInImage from '../assets/CourseCard.jpg'
+import allInImage from '../assets/courseCard.jpg'
 import thumbImg from '../assets/CoursesPic.png'
 const CoursesPage = () => {
   return (
