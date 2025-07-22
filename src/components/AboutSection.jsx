@@ -1,5 +1,5 @@
 import React from 'react';
-import overLapImg from '../assets/overlapimg.jpg'
+import overLapImg from '../assets/overlapImg.jpg'
 import img1 from '../assets/online-classroom.png';  // Image at top
 import img2 from '../assets/teamwork.png';          // Image at bottom
 
