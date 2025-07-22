@@ -97,7 +97,7 @@ const FAQFooter = () => {
           <div>
             <h3 className="text-xl font-bold mb-4">CONTACT US</h3>
             <address className="not-italic text-gray-300">
-              <p>GMS Road Delmadun,</p>
+              <p>GMS Road Dehradun,</p>
               <p>Uttarakhand, India</p>
               <p className="mt-2">+91 897 989 1703</p>
             </address>
