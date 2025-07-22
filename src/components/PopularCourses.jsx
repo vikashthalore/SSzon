@@ -1,6 +1,6 @@
 import React from 'react';
 import CourseCard from './CourseCard'; // ✅ CORRECT component import
-import allInImage from '../assets/CourseCard.jpg'; // ✅ image used in props
+import allInImage from '../assets/courseCard.jpg'; // ✅ image used in props
 
 const PopularCourses = () => {
   return (
